@@ -1,6 +1,6 @@
 ## Oii, eu sou o Alexandre Lintz!
 
-Sou estudante de Engenharia da Computação e desenvolvedor focado em criar aplicações desde o front-end web, desktop e mobile.
+Sou estudante de Engenharia da Computação e iniciei minha jornada na programação há cerca de 1 ano. Sou um desenvolvedor focado em criar aplicações web, desktop e mobile, sempre buscando aprender tecnologias novas a cada projeto.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Lintzz&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas" height="180em" />
@@ -11,11 +11,12 @@ Sou estudante de Engenharia da Computação e desenvolvedor focado em criar apli
   <img align="right" margin="10px" src="https://cdn.discordapp.com/attachments/695650840656085042/1406828063274307796/a_b10c6de80107f72c6f35935e9fbd7d32.gif?ex=6a80787b&is=6a7f26fb&hm=880c018a8f19ea30ed826fa3f8a05e55b6d4888feb899c30e1af681a85488bea&" width="150" />
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <!-- Ícones oficiais do Simple Icons na cor branca -->
+    <img align="center" alt="JS" height="40" width="40" src="https://cdn.simpleicons.org/javascript/white"> &nbsp;
+    <img align="center" alt="React" height="40" width="40" src="https://cdn.simpleicons.org/react/white"> &nbsp;
+    <img align="center" alt="Next" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs/white"> &nbsp;
+    <img align="center" alt="Electron" height="40" width="40" src="https://cdn.simpleicons.org/electron/white"> &nbsp;
+    <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.simpleicons.org/arduino/white">
   </div>
 
   ##
