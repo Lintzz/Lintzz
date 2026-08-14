@@ -1,0 +1,37 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Roda a cada 12 horas
+    - cron: "0 */12 * * *"
+  
+  # Permite rodar manualmente na aba Actions
+  workflow_dispatch:
+  
+  # Roda toda vez que você fizer um push na branch main
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          # Seu nome de usuário
+          github_user_name: ${{ github.repository_owner }}
+          # Gera os arquivos nas duas versões (claro e escuro)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Salva as animações geradas numa branch chamada 'output'
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
