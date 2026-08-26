@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1063150444060364850/1537970181836644382/zenitsu-agatsuma-orange-aesthetic-desktop-wallpaper-preview.png?ex=6a859719&is=6a844599&hm=ccae708098bcca4577f3d655f8d74281f08a8bf696c08f45e943ec014417ce9b&" width="400" />
+  <img src="https://cdn.discordapp.com/attachments/1063150444060364850/1537970181836644382/zenitsu-agatsuma-orange-aesthetic-desktop-wallpaper-preview.png?ex=6a902319&is=6a8ed199&hm=b6cf3d150cadccd12c5310271e3ad01e4cbec2ebf9da577268a3231988cec47f&" width="400" />
 </div>
 
 ##
