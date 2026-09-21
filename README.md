@@ -34,40 +34,11 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-<p align="center"><b>Já construí projetos com</b></p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/React_·_React_Native-000000?style=for-the-badge&logo=react&logoColor=white" alt="React e React Native" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <br>
-  <img src="https://img.shields.io/badge/C%23_·_.NET_·_WPF-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#, .NET e WPF" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</div>
-
 <p align="center"><b>Estudando agora</b></p>
 <div align="center">
   <img src="https://img.shields.io/badge/C%23_·_.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# e .NET" />
   <img src="https://img.shields.io/badge/IA_·_LLMs-000000?style=for-the-badge&logo=claude&logoColor=white" alt="IA e LLMs" />
 </div>
-
-<br><br>
-
-<h3 align="center">Projetos em destaque</h3>
-
-##
-
-- **Dashlz**: painel de instrumentos do Euro Truck Simulator 2 num tablet Android, com app do PC em Electron, app do tablet em React Native e plugin do jogo em C++. Em desenvolvimento e em processo de publicação na Microsoft Store.
-- **[Discord Voice Widget](https://github.com/Lintzz/widget-disc)**: mostra quem está na sua call do Discord, e quem está falando, direto na barra de tarefas do Windows 11 (C# / WPF).
-- **[Stream Live](https://github.com/Lintzz/stream-live)**: app para fazer live de tela e áudio entre amigos, numa rede privada do Radmin VPN (C# / WPF, WebRTC).
-- **[Traklz](https://github.com/Lintzz/traklz-app)**: app mobile para acompanhar animes, séries e filmes, com progresso por episódio e estatísticas do ano (React Native / Expo, Firebase).
-- **[My List](https://github.com/Lintzz/my-list)**: meu primeiro app desktop grande, para organizar listas de animes, filmes, séries, livros e jogos (JavaScript puro, Electron).
 
 <br><br>
 
